@@ -1,7 +1,7 @@
 @font-face {
   font-family: "inter";
   font-weight: 400, 600, 700;
-  src: url(./assets/fonts/static/Inter-Regular.ttf), url(./assets/fonts/static/Inter-SemiBold.ttf), url(./assets/fonts/static/Inter-Bold.ttf);
+  src: url("./assets/fonts/static/Inter-Regular.ttf"), url("./assets/fonts/static/Inter-SemiBold.ttf"), url("./assets/fonts/static/Inter-Bold.ttf");
 }
 
 /* reset style */
