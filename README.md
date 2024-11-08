@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile
 
-![Design preview for the Social links profile coding challenge](./preview.jpg)
+https://social-links-profile-mu-beige.vercel.app/
 
 ## Welcome! 👋
 
